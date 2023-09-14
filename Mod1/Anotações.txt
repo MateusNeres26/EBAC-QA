@@ -1,0 +1,45 @@
+Módulo 1.
+    Aula 1: O profissional da área de Qualidade
+
+Atribuições e responsabilidades:
+ - Planejamento de testes e elaboração de roteiros de testes.
+- Otimização de processos de testes, propondo melhorias em UX/UI, participa de refinamentos junto com time de dev.
+- Faz estimativas de projetos de testes.
+- QA não caça bugs, mas previne bugs.
+- Realiza analise de riscos e impactos e também valida o que deve ser automatizado. Também decide quais testes são full ou o que é uma parcela (smoke test)
+- valida configurações de ambiente de testes, dev, hml ou prod para massa de dados e testar.
+- Participa de todas reuniões e consegue adiantar a maioria dos testes e prevenir bugs.
+Shift-Lefting teste é o teste desde o início do desenvolvimento
+
+	Aula 2: Soft Skills
+
+- SoftSkill é habilidades comportamentais.
+- ligadas diretamente a capacidade de lidar com emocional.
+
+Ligados ao emocional:
+1 - Autoconhecimento emocional
+2 - Empatia
+3 - Controle emocional
+4- Automotivação e Autoconfiança
+5 - Relacionamento interpessoais
+-
+Habilidades comportamentais:
+1 - Competências sociais(sabe ouvir, saber falar, contato colegas etc)
+
+	Aula 3: Hard Skills
+
+HardSkill são habilidades técnicas que podem ser aprendidas e facilmente quantificadas.
+
+O que deve ser aprendido:
+- Metodologias ágeis
+-  Cultura DevOps
+- Perfil multidisciplinar ( aprender novas tecnologias etc)
+- Entender objetivos de negócio
+- Padroes e  pratica de dev
+- Identificação de problemas
+- automação de testes
+- métricas de qualidade
+
+
+
+  
